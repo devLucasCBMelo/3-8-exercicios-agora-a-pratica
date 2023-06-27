@@ -1,4 +1,4 @@
-# 3-8-exercicios-agora-a-pratica
+# Exercicios-Trybe-Repositorio
 Esse repositório contém o exercício do dia 03 da seção 1 do módulo de fundamentos 
 
 Esse é o exercício da secão 3.8-Exercícios - agora, a prática 
